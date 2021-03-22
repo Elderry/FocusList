@@ -12,6 +12,7 @@
 @@||microsoft.com/$document
 @@||stackoverflow.com/$document
 @@||superuser.com/$document
+@@||t66y.com/$document
 @@||wikipedia.org/$document
 
 ! --------------------------------- ithome.com ---------------------------------

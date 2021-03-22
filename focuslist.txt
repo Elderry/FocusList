@@ -1,0 +1,102 @@
+[Adblock Plus 2.0]
+! Title: FocusList
+! Expires: 1 days
+! Homepage: https://github.com/Elderry/FocusList
+! Syntax reference: https://help.eyeo.com/adblockplus/how-to-write-filters
+
+! ------------------------------ Exclude Websites ------------------------------
+
+@@||github.com/$document
+@@||google.*/$document
+@@||live.com/$document
+@@||microsoft.com/$document
+@@||stackoverflow.com/$document
+@@||superuser.com/$document
+@@||wikipedia.org/$document
+
+! --------------------------------- ithome.com ---------------------------------
+
+! 左侧软媒产品
+ithome.com##DIV#down
+! 顶部头条
+ithome.com##DIV#tt
+! 右侧浮动导航栏
+ithome.com##DIV#side_func
+
+! ---------------------------------- leju.com ----------------------------------
+
+! 正下方大幅广告
+leju.com##DIV.gl_ly_fjh
+! 右下浮动导航栏
+leju.com##DIV.bb_navBox
+
+! ------------------------------ news.sina.com.cn ------------------------------
+
+! 左侧APP广告下载二维码
+news.sina.com.cn##DIV#commonSideBar
+! 文章下方热门推荐
+news.sina.com.cn##DIV#most_read
+! 文章下方相关新闻
+news.sina.com.cn##DIV#tab_related
+! 文章下方APP广告下载二维码
+news.sina.com.cn##DIV#wxFollow
+! 右侧浮动导航栏
+news.sina.com.cn##DIV.page-right-bar
+
+! --------------------------------- taobao.com ---------------------------------
+
+! 右侧浮动导航栏
+taobao.com##DIV.tbh-fixedtool
+! 下方猜你喜欢
+taobao.com##DIV.J_guess-you-like
+
+! 订单列表右侧小蜜入口
+buyertrade.taobao.com##DIV#J_xiaomi_dialog
+! 订单列表下方热卖单品
+buyertrade.taobao.com##DIV#p4p_ad
+
+! 购物车下方广告
+cart.taobao.com##DIV#interested
+! 购物车右侧浮动导航栏
+cart.taobao.com##DIV#J_SideFloat
+
+! 我的页面右侧浮动导航栏
+i.taobao.com##DIV#J_MtFixInBottom
+! 我的页面下方猜我喜欢
+i.taobao.com##DIV.m-guess-you-like
+! 我的页面下方爱逛街
+i.taobao.com##DIV.m-someone-like-you
+
+! --------------------------- taotutaotu.com (NSFW) ----------------------------
+
+! 导航栏下方醒目提示
+taotutaotu.com##DIV#it_an
+
+! --------------------------------- tmall.com ----------------------------------
+
+! 商品详情右侧看了又看
+detail.tmall.com##DIV#ald-skuRight
+! 商品详情下方猜你喜欢
+detail.tmall.com##DIV#J_TabRecommends
+! 商品概况——详情间广告条
+detail.tmall.com##DIV.tm-layout
+
+! ---------------------------- trueachievements.com ----------------------------
+
+! Bottom AD bar
+trueachievements.com##DIV#nn_lb2_wrap
+! AD container
+trueachievements.com##DIV.ad-wrap
+
+! ------------------------------- pan.baidu.com --------------------------------
+
+! 提取码页面底部广告
+pan.baidu.com##A.phone-banner
+! 顶栏 VIP 诱导延长按钮
+pan.baidu.com##DD.gOIbzPb
+! 侧边栏多平台客户端下载按钮
+pan.baidu.com##DIV.feNMdtb
+! 侧边栏扩容按钮
+pan.baidu.com##DIV.GELdyA
+! 侧边栏功能广告
+pan.baidu.com##DIV.wp-side-options

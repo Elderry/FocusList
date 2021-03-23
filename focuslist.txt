@@ -16,6 +16,36 @@
 @@||t66y.com/$document
 @@||wikipedia.org/$document
 
+! --------------------------------- baidu.com ----------------------------------
+
+! 右侧浮动分享栏
+baike.baidu.com##DIV#side-share
+! 底部TA说
+baike.baidu.com##DIV#tashuo_bottom
+! 右侧TA说
+baike.baidu.com##DIV#tashuo_right
+! 秒懂百科
+baike.baidu.com##DIV.before-content
+! 文章段间插入V百科广告
+baike.baidu.com##DIV.configModuleBanner
+! 右侧广告
+baike.baidu.com##DIV.lemmaWgt-promotion-slide
+! 右侧V百科
+baike.baidu.com##DIV.lemmaWgt-promotion-vbaike
+! 导航栏APP广告
+baike.baidu.com##SPAN.appdownload
+
+! 提取码页面底部广告
+pan.baidu.com##A.phone-banner
+! 顶栏 VIP 诱导延长按钮
+pan.baidu.com##DD.gOIbzPb
+! 侧边栏多平台客户端下载按钮
+pan.baidu.com##DIV.feNMdtb
+! 侧边栏扩容按钮
+pan.baidu.com##DIV.GELdyA
+! 侧边栏功能广告
+pan.baidu.com##DIV.wp-side-options
+
 ! --------------------------------- ithome.com ---------------------------------
 
 ! 文章下方 APP 广告
@@ -52,19 +82,6 @@ news.sina.com.cn##DIV#tab_related
 news.sina.com.cn##DIV#wxFollow
 ! 右侧浮动导航栏
 news.sina.com.cn##DIV.page-right-bar
-
-! ------------------------------- pan.baidu.com --------------------------------
-
-! 提取码页面底部广告
-pan.baidu.com##A.phone-banner
-! 顶栏 VIP 诱导延长按钮
-pan.baidu.com##DD.gOIbzPb
-! 侧边栏多平台客户端下载按钮
-pan.baidu.com##DIV.feNMdtb
-! 侧边栏扩容按钮
-pan.baidu.com##DIV.GELdyA
-! 侧边栏功能广告
-pan.baidu.com##DIV.wp-side-options
 
 ! --------------------------------- taobao.com ---------------------------------
 

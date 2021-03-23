@@ -127,3 +127,10 @@ detail.tmall.com##DIV.tm-layout
 trueachievements.com##DIV#nn_lb2_wrap
 ! AD container
 trueachievements.com##DIV.ad-wrap
+
+! --------------------------------- zhihu.com ----------------------------------
+
+! 右侧付费功能入口
+zhihu.com##DIV.GlobalSideBar-category
+! 右侧相关推荐
+zhihu.com##DIV[data-za-detail-view-path-module_name="相关推荐"]

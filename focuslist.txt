@@ -6,6 +6,7 @@
 
 ! ------------------------------ Exclude Websites ------------------------------
 
+@@||azure.com/$document
 @@||github.com/$document
 @@||google.*/$document
 @@||live.com/$document
@@ -17,12 +18,20 @@
 
 ! --------------------------------- ithome.com ---------------------------------
 
+! 文章下方 APP 广告
+ithome.com##A.down_app
+! 文章右侧分类最热
+ithome.com##DIV#cat-hot
 ! 左侧软媒产品
 ithome.com##DIV#down
 ! 顶部头条
 ithome.com##DIV#tt
 ! 右侧浮动导航栏
 ithome.com##DIV#side_func
+! 文章下方相关文章
+ithome.com##DIV.related_post
+! 文章下方大家在看
+ithome.com##IFRAME.dajia
 
 ! ---------------------------------- leju.com ----------------------------------
 
@@ -43,6 +52,19 @@ news.sina.com.cn##DIV#tab_related
 news.sina.com.cn##DIV#wxFollow
 ! 右侧浮动导航栏
 news.sina.com.cn##DIV.page-right-bar
+
+! ------------------------------- pan.baidu.com --------------------------------
+
+! 提取码页面底部广告
+pan.baidu.com##A.phone-banner
+! 顶栏 VIP 诱导延长按钮
+pan.baidu.com##DD.gOIbzPb
+! 侧边栏多平台客户端下载按钮
+pan.baidu.com##DIV.feNMdtb
+! 侧边栏扩容按钮
+pan.baidu.com##DIV.GELdyA
+! 侧边栏功能广告
+pan.baidu.com##DIV.wp-side-options
 
 ! --------------------------------- taobao.com ---------------------------------
 
@@ -88,16 +110,3 @@ detail.tmall.com##DIV.tm-layout
 trueachievements.com##DIV#nn_lb2_wrap
 ! AD container
 trueachievements.com##DIV.ad-wrap
-
-! ------------------------------- pan.baidu.com --------------------------------
-
-! 提取码页面底部广告
-pan.baidu.com##A.phone-banner
-! 顶栏 VIP 诱导延长按钮
-pan.baidu.com##DD.gOIbzPb
-! 侧边栏多平台客户端下载按钮
-pan.baidu.com##DIV.feNMdtb
-! 侧边栏扩容按钮
-pan.baidu.com##DIV.GELdyA
-! 侧边栏功能广告
-pan.baidu.com##DIV.wp-side-options

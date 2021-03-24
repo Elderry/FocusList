@@ -74,12 +74,22 @@ leju.com##DIV.bb_navBox
 
 ! 左侧APP广告下载二维码
 news.sina.com.cn##DIV#commonSideBar
+! 文章右侧热点博客
+news.sina.com.cn##DIV#hot-blog
 ! 文章下方热门推荐
 news.sina.com.cn##DIV#most_read
+! 文章右侧图片新闻
+news.sina.com.cn##DIV#news-photo
 ! 文章下方相关新闻
 news.sina.com.cn##DIV#tab_related
+! 文章右侧视频新闻
+news.sina.com.cn##DIV#video-miaopai
 ! 文章下方APP广告下载二维码
 news.sina.com.cn##DIV#wxFollow
+! 文章右侧新浪热榜
+news.sina.com.cn##DIV.diversion-rank-box
+! 文章右侧新媒体实验室
+news.sina.com.cn##DIV.new-media-lab
 ! 右侧浮动导航栏
 news.sina.com.cn##DIV.page-right-bar
 

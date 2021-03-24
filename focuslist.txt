@@ -35,6 +35,9 @@ baike.baidu.com##DIV.lemmaWgt-promotion-vbaike
 ! 导航栏APP广告
 baike.baidu.com##SPAN.appdownload
 
+! 左侧APP广告
+hanyu.baidu.com##DIV.app-qrcode
+
 ! 提取码页面底部广告
 pan.baidu.com##A.phone-banner
 ! 顶栏 VIP 诱导延长按钮
@@ -54,10 +57,10 @@ ithome.com##A.down_app
 ithome.com##DIV#cat-hot
 ! 左侧软媒产品
 ithome.com##DIV#down
-! 顶部头条
-ithome.com##DIV#tt
 ! 右侧浮动导航栏
 ithome.com##DIV#side_func
+! 顶部头条
+ithome.com##DIV#tt
 ! 文章下方相关文章
 ithome.com##DIV.related_post
 ! 文章下方大家在看
@@ -65,10 +68,10 @@ ithome.com##IFRAME.dajia
 
 ! ---------------------------------- leju.com ----------------------------------
 
-! 正下方大幅广告
-leju.com##DIV.gl_ly_fjh
 ! 右下浮动导航栏
 leju.com##DIV.bb_navBox
+! 正下方大幅广告
+leju.com##DIV.gl_ly_fjh
 
 ! ------------------------------ news.sina.com.cn ------------------------------
 

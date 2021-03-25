@@ -73,18 +73,30 @@ leju.com##DIV.bb_navBox
 ! 正下方大幅广告
 leju.com##DIV.gl_ly_fjh
 
-! ------------------------------ news.sina.com.cn ------------------------------
+! -------------------------------- sina.com.cn ---------------------------------
 
 ! 左侧APP广告下载二维码
-news.sina.com.cn##DIV#commonSideBar
+sina.com.cn##DIV#commonSideBar
+! 文章下方相关新闻
+sina.com.cn##DIV#tab_related
+! 右侧浮动导航栏
+sina.com.cn##DIV.page-right-bar
+
+! 文章右侧娱乐看点
+ent.sina.com.cn##DIV[data-sudaclick="right_kandian_p"]
+! 文章右侧热门搜索
+ent.sina.com.cn##DIV[data-sudaclick="right_search_p"]
+! 文章右侧精彩视频
+ent.sina.com.cn##DIV[data-sudaclick="right_videos_p"]
+! 文章右侧微博热点
+ent.sina.com.cn##IFRAME#wrap_wbHot
+
 ! 文章右侧热点博客
 news.sina.com.cn##DIV#hot-blog
 ! 文章下方热门推荐
 news.sina.com.cn##DIV#most_read
 ! 文章右侧图片新闻
 news.sina.com.cn##DIV#news-photo
-! 文章下方相关新闻
-news.sina.com.cn##DIV#tab_related
 ! 文章右侧视频新闻
 news.sina.com.cn##DIV#video-miaopai
 ! 文章下方APP广告下载二维码
@@ -93,8 +105,6 @@ news.sina.com.cn##DIV#wxFollow
 news.sina.com.cn##DIV.diversion-rank-box
 ! 文章右侧新媒体实验室
 news.sina.com.cn##DIV.new-media-lab
-! 右侧浮动导航栏
-news.sina.com.cn##DIV.page-right-bar
 
 ! --------------------------------- taobao.com ---------------------------------
 

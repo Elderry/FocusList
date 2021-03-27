@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/Elderry/FocusList/main/focuslist.txt
 ```
 或
 ```
-https://gitee.com/elderry/FocusList/raw/main/focuslist.txt
+https://gitee.com/elderry/FocusList/raw/main/focuslist-cn.txt
 ```
 在 Adblock Plus 中的 **ADD FILTER LIST VIA URL** 处输入添加即可。
 

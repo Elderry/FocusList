@@ -1,0 +1,163 @@
+[Adblock Plus 2.0]
+! Title: FocusList
+! Expires: 1 days
+! Homepage: https://gitee.com/elderry/FocusList
+! Syntax reference: https://help.eyeo.com/adblockplus/how-to-write-filters
+
+! ------------------------------ Exclude Websites ------------------------------
+
+@@||azure.com/$document
+@@||github.com/$document
+@@||google.*/$document
+@@||live.com/$document
+@@||microsoft.com/$document
+@@||stackoverflow.com/$document
+@@||superuser.com/$document
+@@||wikipedia.org/$document
+
+! --------------------------------- baidu.com ----------------------------------
+
+! 右侧浮动分享栏
+baike.baidu.com##DIV#side-share
+! 底部TA说
+baike.baidu.com##DIV#tashuo_bottom
+! 右侧TA说
+baike.baidu.com##DIV#tashuo_right
+! 秒懂百科
+baike.baidu.com##DIV.before-content
+! 文章段间插入V百科广告
+baike.baidu.com##DIV.configModuleBanner
+! 右侧广告
+baike.baidu.com##DIV.lemmaWgt-promotion-slide
+! 右侧V百科
+baike.baidu.com##DIV.lemmaWgt-promotion-vbaike
+! 导航栏APP广告
+baike.baidu.com##SPAN.appdownload
+
+! 左侧APP广告
+hanyu.baidu.com##DIV.app-qrcode
+
+! 提取码页面底部广告
+pan.baidu.com##A.phone-banner
+! 顶栏 VIP 诱导延长按钮
+pan.baidu.com##DD.gOIbzPb
+! 侧边栏多平台客户端下载按钮
+pan.baidu.com##DIV.feNMdtb
+! 侧边栏扩容按钮
+pan.baidu.com##DIV.GELdyA
+! 侧边栏功能广告
+pan.baidu.com##DIV.wp-side-options
+
+! --------------------------------- ithome.com ---------------------------------
+
+! 文章下方 APP 广告
+ithome.com##A.down_app
+! 文章右侧分类最热
+ithome.com##DIV#cat-hot
+! 左侧软媒产品
+ithome.com##DIV#down
+! 右侧浮动导航栏
+ithome.com##DIV#side_func
+! 顶部头条
+ithome.com##DIV#tt
+! 文章下方相关文章
+ithome.com##DIV.related_post
+! 文章下方大家在看
+ithome.com##IFRAME.dajia
+
+! ---------------------------------- leju.com ----------------------------------
+
+! 右下浮动导航栏
+leju.com##DIV.bb_navBox
+! 正下方大幅广告
+leju.com##DIV.gl_ly_fjh
+
+! -------------------------------- sina.com.cn ---------------------------------
+
+! 左侧APP广告下载二维码
+sina.com.cn##DIV#commonSideBar
+! 文章下方相关新闻
+sina.com.cn##DIV#tab_related
+! 右侧浮动导航栏
+sina.com.cn##DIV.page-right-bar
+
+! 文章右侧娱乐看点
+ent.sina.com.cn##DIV[data-sudaclick="right_kandian_p"]
+! 文章右侧热门搜索
+ent.sina.com.cn##DIV[data-sudaclick="right_search_p"]
+! 文章右侧精彩视频
+ent.sina.com.cn##DIV[data-sudaclick="right_videos_p"]
+! 文章右侧微博热点
+ent.sina.com.cn##IFRAME#wrap_wbHot
+
+! 文章右侧热点博客
+news.sina.com.cn##DIV#hot-blog
+! 文章下方热门推荐
+news.sina.com.cn##DIV#most_read
+! 文章右侧图片新闻
+news.sina.com.cn##DIV#news-photo
+! 文章右侧视频新闻
+news.sina.com.cn##DIV#video-miaopai
+! 文章下方APP广告下载二维码
+news.sina.com.cn##DIV#wxFollow
+! 文章右侧新浪热榜
+news.sina.com.cn##DIV.diversion-rank-box
+! 文章右侧新媒体实验室
+news.sina.com.cn##DIV.new-media-lab
+
+! 图片右侧浮动导航栏
+slide.news.sina.com.cn##DIV#CCCFloatBarRight
+! 图片下方导流广告
+slide.news.sina.com.cn##DIV.daoliu-iframe
+
+! --------------------------------- taobao.com ---------------------------------
+
+! 右侧浮动导航栏
+taobao.com##DIV.tbh-fixedtool
+! 下方猜你喜欢
+taobao.com##DIV.J_guess-you-like
+
+! 订单列表右侧小蜜入口
+buyertrade.taobao.com##DIV#J_xiaomi_dialog
+! 订单列表下方热卖单品
+buyertrade.taobao.com##DIV#p4p_ad
+
+! 购物车下方广告
+cart.taobao.com##DIV#interested
+! 购物车右侧浮动导航栏
+cart.taobao.com##DIV#J_SideFloat
+
+! 我的页面右侧浮动导航栏
+i.taobao.com##DIV#J_MtFixInBottom
+! 我的页面下方猜我喜欢
+i.taobao.com##DIV.m-guess-you-like
+! 我的页面下方爱逛街
+i.taobao.com##DIV.m-someone-like-you
+
+! --------------------------- taotutaotu.com (NSFW) ----------------------------
+
+! 导航栏下方醒目提示
+taotutaotu.com##DIV#it_an
+
+! --------------------------------- tmall.com ----------------------------------
+
+! 商品详情右侧看了又看
+detail.tmall.com##DIV#ald-skuRight
+! 商品详情下方猜你喜欢
+detail.tmall.com##DIV#J_TabRecommends
+! 商品概况——详情间广告条
+detail.tmall.com##DIV.tm-layout
+
+! ---------------------------- trueachievements.com ----------------------------
+
+! Bottom AD bar
+trueachievements.com##DIV#nn_lb2_wrap
+! AD container
+trueachievements.com##DIV.ad-wrap
+
+! --------------------------------- zhihu.com ----------------------------------
+
+! 右侧付费功能入口
+zhihu.com##DIV.GlobalSideBar-category
+! 右侧相关推荐
+zhihu.com##DIV[data-za-detail-view-path-module_name="相关推荐"]

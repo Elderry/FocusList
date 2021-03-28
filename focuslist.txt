@@ -38,6 +38,19 @@ baike.baidu.com##SPAN.appdownload
 ! 左侧APP广告
 hanyu.baidu.com##DIV.app-qrcode
 
+! 右侧浮动任务栏
+jingyan.baidu.com##DIV#task-panel-wrap
+! 右侧浮动分享栏
+jingyan.baidu.com##DIV#wgt-exp-share
+! 左侧浮动反馈栏
+jingyan.baidu.com##DIV#wgt-like
+! 文章上方秒懂视频
+jingyan.baidu.com##DIV.feeds-video-box
+! 右侧轮播导流
+jingyan.baidu.com##DIV.wgt-cms-banner
+! 文章上方图片缩略图
+jingyan.baidu.com##DIV.wgt-thumbs
+
 ! 提取码页面底部广告
 pan.baidu.com##A.phone-banner
 ! 顶栏 VIP 诱导延长按钮

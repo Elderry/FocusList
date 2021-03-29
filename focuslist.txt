@@ -46,6 +46,8 @@ jingyan.baidu.com##DIV#wgt-exp-share
 jingyan.baidu.com##DIV#wgt-like
 ! 文章上方秒懂视频
 jingyan.baidu.com##DIV.feeds-video-box
+! 文章上方秒懂视频播放数
+jingyan.baidu.com##DIV.feeds-video-one-view
 ! 右侧轮播导流
 jingyan.baidu.com##DIV.wgt-cms-banner
 ! 文章上方图片缩略图
@@ -62,9 +64,26 @@ pan.baidu.com##DIV.GELdyA
 ! 侧边栏功能广告
 pan.baidu.com##DIV.wp-side-options
 
+! 右侧会员信息（帖子页）
+tieba.baidu.com##DIV#celebrity
+! 右侧会员信息（贴吧页）
+tieba.baidu.com##DIV#pagelet_encourage-celebrity/pagelet/celebrity
+! 签到栏（贴吧页）
+tieba.baidu.com##DIV#pagelet_forum/pagelet/sign_mod
+! 签到栏（帖子页）
+tieba.baidu.com##DIV#sign_mod
+! 右侧APP广告
+tieba.baidu.com##DIV.app_download_box
+! 签名档分隔线
+tieba.baidu.com##DIV.d_sign_split
+! 签名档
+tieba.baidu.com##IMG.j_user_sign
+! 右侧浮动工具栏
+tieba.baidu.com##UL.tbui_aside_float_bar
+
 ! --------------------------------- ithome.com ---------------------------------
 
-! 文章下方 APP 广告
+! 文章下方APP广告
 ithome.com##A.down_app
 ! 文章右侧分类最热
 ithome.com##DIV#cat-hot

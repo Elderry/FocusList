@@ -137,11 +137,15 @@ news.sina.com.cn##DIV#wxFollow
 news.sina.com.cn##DIV.diversion-rank-box
 ! 文章右侧新媒体实验室
 news.sina.com.cn##DIV.new-media-lab
+! 右侧APP广告下载二维码
+news.sina.com.cn##DIV.side-btns-2w
+! 右侧浮动向上按钮
+news.sina.com.cn##DIV.side-btns-wrap
 
 ! 图片右侧浮动导航栏
-slide.news.sina.com.cn##DIV#CCCFloatBarRight
+slide.*.sina.com.cn##DIV#CCCFloatBarRight
 ! 图片下方导流广告
-slide.news.sina.com.cn##DIV.daoliu-iframe
+slide.*.sina.com.cn##DIV.daoliu-iframe
 
 ! --------------------------------- taobao.com ---------------------------------
 

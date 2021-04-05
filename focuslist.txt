@@ -16,6 +16,19 @@
 @@||t66y.com/$document
 @@||wikipedia.org/$document
 
+! ---------------------------------- amap.com ----------------------------------
+
+! 左下角Logo
+amap.com##A.amap-logo
+! 搜索结果APP下载广告
+amap.com##DIV#amap-result-banner
+! 右上APP下载按钮
+amap.com##DIV#amapAppDownload
+! 底部版权信息
+amap.com##DIV.amap-copyright
+! 搜索推荐栏
+amap.com##DIV.recommend-c
+
 ! --------------------------------- baidu.com ----------------------------------
 
 ! 右侧浮动分享栏

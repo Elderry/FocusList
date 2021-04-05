@@ -152,9 +152,9 @@ news.sina.com.cn##DIV.side-btns-2w
 news.sina.com.cn##DIV.side-btns-wrap
 
 ! 图片右侧浮动导航栏
-slide.*.sina.com.cn##DIV#CCCFloatBarRight
+slide.ent.sina.com.cn,slide.news.sina.com.cn##DIV#CCCFloatBarRight
 ! 图片下方导流广告
-slide.*.sina.com.cn##DIV.daoliu-iframe
+slide.ent.sina.com.cn,slide.news.sina.com.cn##DIV.daoliu-iframe
 
 ! --------------------------------- taobao.com ---------------------------------
 

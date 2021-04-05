@@ -124,13 +124,13 @@ ent.sina.com.cn##DIV[data-sudaclick="right_videos_p"]
 ent.sina.com.cn##IFRAME#wrap_wbHot
 
 ! 左侧Flash广告
-game.sina.com.cn##DIV#leftFlashDiv
+games.sina.com.cn##DIV#leftFlashDiv
 ! 右侧导流专题
-game.sina.com.cn##DIV#news_article_right_with_product
+games.sina.com.cn##DIV#news_article_right_with_product
 ! 文章下方精彩推荐
-game.sina.com.cn##DIV#tuijian
+games.sina.com.cn##DIV#tuijian
 ! 左侧浮动分享栏
-game.sina.com.cn##DIV.social-plate
+games.sina.com.cn##DIV.social-plate
 
 ! 文章右侧热点博客
 news.sina.com.cn##DIV#hot-blog

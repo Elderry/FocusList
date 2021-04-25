@@ -31,6 +31,8 @@ amap.com##DIV.recommend-c
 
 ! --------------------------------- baidu.com ----------------------------------
 
+! 顶部右侧广告
+baike.baidu.com##A.topA
 ! 右侧浮动分享栏
 baike.baidu.com##DIV#side-share
 ! 底部TA说

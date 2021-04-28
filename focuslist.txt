@@ -120,6 +120,21 @@ leju.com##DIV.bb_navBox
 ! 正下方大幅广告
 leju.com##DIV.gl_ly_fjh
 
+! ---------------------------- merriam-webster.com -----------------------------
+
+! Panel on right
+merriam-webster.com##DIV#definition-right-rail
+! Fixed AD on bottom
+merriam-webster.com##DIV#fixed-ad-bottom
+! Teaser for subscription
+merriam-webster.com##DIV#subscribe-unabridged
+! Addition content in bottom
+merriam-webster.com##DIV.additional-content-area
+! Teaser in footer
+merriam-webster.com##DIV.footer-mast
+! AD slot on top
+merriam-webster.com##DIV.mw-ad-slot-top
+
 ! -------------------------------- sina.com.cn ---------------------------------
 
 ! 左侧APP广告下载二维码

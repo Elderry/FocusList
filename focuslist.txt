@@ -132,8 +132,12 @@ merriam-webster.com##DIV#subscribe-unabridged
 merriam-webster.com##DIV.additional-content-area
 ! Teaser in footer
 merriam-webster.com##DIV.footer-mast
+! AD on top of main page
+merriam-webster.com##DIV.mw-ad
 ! AD slot on top
 merriam-webster.com##DIV.mw-ad-slot-top
+! Register promotion bar
+merriam-webster.com##DIV.register-promo
 
 ! -------------------------------- sina.com.cn ---------------------------------
 

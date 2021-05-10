@@ -122,8 +122,10 @@ leju.com##DIV.gl_ly_fjh
 
 ! ------------------------------ leetcode-cn.com -------------------------------
 
-! 右上角促销按钮
-leetcode-cn.com##.ery7n2v0
+! 右上角APP促销按钮
+leetcode-cn.com##A.ergbin814
+! 右上角会员促销按钮
+leetcode-cn.com##A.ergbin815
 
 ! ---------------------------- merriam-webster.com -----------------------------
 

@@ -242,6 +242,13 @@ trueachievements.com##DIV#nn_lb2_wrap
 ! AD container
 trueachievements.com##DIV.ad-wrap
 
+! ----------------------------- tutorialspoint.com -----------------------------
+
+! AD provided by Google
+tutorialspoint.com##DIV#google-bottom-ads
+tutorialspoint.com##DIV#google-right-ads
+tutorialspoint.com##DIV#stickyparent
+
 ! --------------------------------- zhihu.com ----------------------------------
 
 ! 右侧付费功能入口

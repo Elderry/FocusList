@@ -37,16 +37,12 @@ baike.baidu.com##SPAN.appdownload
 ! 左侧APP广告
 hanyu.baidu.com##DIV.app-qrcode
 
-! 提取码页面底部广告
-pan.baidu.com##A.phone-banner
 ! 顶栏 VIP 诱导延长按钮
-pan.baidu.com##DD.gOIbzPb
-! 侧边栏多平台客户端下载按钮
-pan.baidu.com##DIV.feNMdtb
-! 侧边栏扩容按钮
-pan.baidu.com##DIV.GELdyA
-! 侧边栏功能广告
-pan.baidu.com##DIV.wp-side-options
+pan.baidu.com##A#web-header-text-s-5
+! 顶栏企业认证按钮
+pan.baidu.com##A.company-cert
+! 顶栏会员中心按钮
+pan.baidu.com##A.wp-disk-header__vip-btn-wrapper
 
 ! --------------------------------- ithome.com ---------------------------------
 

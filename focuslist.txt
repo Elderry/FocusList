@@ -117,8 +117,12 @@ ithome.com##IFRAME.dajia
 
 ! 右下浮动导航栏
 leju.com##DIV.bb_navBox
+! 文章右侧推荐内容
+leju.com##DIV.dll_contright
 ! 正下方大幅广告
 leju.com##DIV.gl_ly_fjh
+! 文章下方推荐内容
+leju.com##DIV.l_remen
 
 ! ------------------------------ leetcode-cn.com -------------------------------
 
@@ -156,12 +160,14 @@ sina.com.cn##DIV#commonSideBar
 sina.com.cn##DIV#tab_related
 ! 图片下方导流广告
 sina.com.cn##DIV.daoliu-iframe
-! 右侧浮动导航栏
-sina.com.cn##DIV.page-right-bar
-! 文章右侧推荐内容
-sina.com.cn##DIV.side
 ! 文章下方微信公众号二维码
 sina.com.cn##DIV.news_weixin_ercode
+! 右侧浮动导航栏
+sina.com.cn##DIV.page-right-bar
+! 浮动微博分享按钮
+sina.com.cn##DIV.share-layout
+! 文章右侧推荐内容
+sina.com.cn##DIV.side
 ! 文章下方猜你喜欢
 sina.com.cn##UL.love-list
 
@@ -169,6 +175,8 @@ sina.com.cn##UL.love-list
 games.sina.com.cn##DIV#leftFlashDiv
 ! 文章下方精彩推荐
 games.sina.com.cn##DIV#tuijian
+! 文章右侧推荐内容
+games.sina.com.cn##DIV.RIGHT
 ! 左侧浮动分享栏
 games.sina.com.cn##DIV.social-plate
 
@@ -176,6 +184,10 @@ games.sina.com.cn##DIV.social-plate
 news.sina.com.cn##DIV#most_read
 ! 文章下方APP广告下载二维码
 news.sina.com.cn##DIV#wxFollow
+! 文章右侧推荐内容
+news.sina.com.cn##DIV.article-content-right
+! 右侧APP广告下载二维码
+news.sina.com.cn##DIV.side-btns-2w
 ! 右侧浮动向上按钮
 news.sina.com.cn##DIV.side-btns-wrap
 
@@ -202,11 +214,6 @@ i.taobao.com##DIV#J_MtFixInBottom
 i.taobao.com##DIV.m-guess-you-like
 ! 我的页面下方爱逛街
 i.taobao.com##DIV.m-someone-like-you
-
-! --------------------------- taotutaotu.com (NSFW) ----------------------------
-
-! 导航栏下方醒目提示
-taotutaotu.com##DIV#it_an
 
 ! --------------------------------- tmall.com ----------------------------------
 

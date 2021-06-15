@@ -70,6 +70,8 @@ jingyan.baidu.com##DIV.wgt-thumbs
 
 ! 顶栏 VIP 诱导延长按钮
 pan.baidu.com##A#web-header-text-s-5
+! 提取码页面底部广告
+pan.baidu.com##A.phone-banner
 ! 顶栏企业认证按钮
 pan.baidu.com##A.company-cert
 ! 顶栏会员中心按钮

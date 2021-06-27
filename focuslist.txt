@@ -69,7 +69,7 @@ jingyan.baidu.com##DIV.wgt-cms-banner
 jingyan.baidu.com##DIV.wgt-thumbs
 
 ! 顶栏 VIP 诱导延长按钮
-pan.baidu.com##A#web-header-text-s-5
+pan.baidu.com##A#web-header-text-s-6
 ! 提取码页面底部广告
 pan.baidu.com##A.phone-banner
 ! 顶栏企业认证按钮

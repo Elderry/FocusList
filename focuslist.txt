@@ -94,6 +94,15 @@ tieba.baidu.com##IMG.j_user_sign
 ! 右侧浮动工具栏
 tieba.baidu.com##UL.tbui_aside_float_bar
 
+! --------------------------------- fandom.com ---------------------------------
+
+! AD in content
+fandom.com##DIV#incontent_boxad_1
+! Fan Feed at bottom
+fandom.com##DIV#mixed-content-footer
+! AD in right bar
+fandom.com##DIV#rail-boxad-wrapper
+
 ! --------------------------------- ithome.com ---------------------------------
 
 ! 文章下方APP广告

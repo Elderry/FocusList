@@ -233,8 +233,12 @@ detail.tmall.com##DIV.tm-layout
 
 ! ---------------------------- trueachievements.com ----------------------------
 
+! Top AD bar
+trueachievements.com##DIV#nn_bfa_wrapper
 ! Bottom AD bar
 trueachievements.com##DIV#nn_lb2_wrap
+! Floating video player
+trueachievements.com##DIV#nn_player
 ! AD container
 trueachievements.com##DIV.ad-wrap
 

@@ -102,6 +102,10 @@ fandom.com##DIV#incontent_boxad_1
 fandom.com##DIV#mixed-content-footer
 ! AD in right bar
 fandom.com##DIV#rail-boxad-wrapper
+! AD at top
+fandom.com##DIV.top-ads-container
+! AD at bottom
+fandom.com##DIV.bottom-ads-container
 
 ! --------------------------------- ithome.com ---------------------------------
 

@@ -98,6 +98,7 @@ tieba.baidu.com##UL.tbui_aside_float_bar
 
 ! AD in content
 fandom.com##DIV#incontent_boxad_1
+fandom.com##DIV#incontent_player
 ! Fan Feed at bottom
 fandom.com##DIV#mixed-content-footer
 ! AD in right bar

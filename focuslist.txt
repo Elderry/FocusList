@@ -248,6 +248,8 @@ trueachievements.com##DIV#nn_player
 trueachievements.com##DIV#nn_skinl
 ! AD container
 trueachievements.com##DIV.ad-wrap
+! Top AD bar
+trueachievements.com##DIV.lb_holder
 ! Video player in achievement list
 trueachievements.com##DIV.nn_player_w
 

@@ -14,10 +14,6 @@ FocusList 的目标是提供一份使用户专注内容的 [AdblockPlus](https:/
 ```
 https://raw.githubusercontent.com/Elderry/FocusList/main/focuslist.txt
 ```
-或
-```
-https://gitee.com/elderry/FocusList/raw/main/focuslist-cn.txt
-```
 在 Adblock Plus 中的 **ADD FILTER LIST VIA URL** 处输入添加即可。
 
 ## 贡献与咨询

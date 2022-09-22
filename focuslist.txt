@@ -147,20 +147,12 @@ leetcode-cn.com##A.ergbin815
 
 ! Panel on right
 merriam-webster.com##DIV#definition-right-rail
-! Fixed AD on bottom
-merriam-webster.com##DIV#fixed-ad-bottom
 ! Teaser for subscription
 merriam-webster.com##DIV#subscribe-unabridged
-! Addition content in bottom
+! Additional content in bottom
 merriam-webster.com##DIV.additional-content-area
-! Teaser in footer
-merriam-webster.com##DIV.footer-mast
-! AD on top of main page
-merriam-webster.com##DIV.mw-ad
-! AD slot on top
-merriam-webster.com##DIV.mw-ad-slot-top
-! Register promotion bar
-merriam-webster.com##DIV.register-promo
+! Ad container inside content
+merriam-webster.com##DIV.mw-def-2020-ad-container
 
 ! -------------------------------- sina.com.cn ---------------------------------
 

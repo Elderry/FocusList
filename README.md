@@ -12,7 +12,7 @@ FocusList 的目标是提供一份使用户专注内容的 [AdblockPlus](https:/
 ## 订阅方法
 本列表的订阅 URL 为：
 ```
-https://raw.githubusercontent.com/Elderry/FocusList/main/focuslist.txt
+https://raw.gitmirror.com/Elderry/FocusList/main/focuslist.txt
 ```
 在 Adblock Plus 中的 **ADD FILTER LIST VIA URL** 处输入添加即可。
 

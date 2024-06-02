@@ -68,14 +68,14 @@ jingyan.baidu.com##DIV.wgt-cms-banner
 ! 文章上方图片缩略图
 jingyan.baidu.com##DIV.wgt-thumbs
 
-! 顶栏 VIP 诱导延长按钮
-pan.baidu.com##A#web-header-text-s-6
 ! 提取码页面底部广告
 pan.baidu.com##A.phone-banner
+! 顶栏游戏入口
+pan.baidu.com##DIV.gameEntry
+! 顶栏 VIP 诱导延长按钮
+pan.baidu.com##SPAN.nd-sug-ad-item
 ! 顶栏企业认证按钮
-pan.baidu.com##A.company-cert
-! 顶栏会员中心按钮
-pan.baidu.com##A.wp-disk-header__vip-btn-wrapper
+pan.baidu.com##SPAN.nd-team-space
 
 ! 右侧会员信息（帖子页）
 tieba.baidu.com##DIV#celebrity

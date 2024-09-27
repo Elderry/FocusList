@@ -238,6 +238,10 @@ trueachievements.com##DIV#nn_lb2_wrap
 trueachievements.com##DIV#nn_player
 ! Left AD bar
 trueachievements.com##DIV#nn_skinl
+! Right AD bar
+trueachievements.com##DIV#nn_skinr
+! AD container in achievement list
+trueachievements.com##DIV.ad-center
 ! AD container
 trueachievements.com##DIV.ad-wrap
 ! Top AD bar
